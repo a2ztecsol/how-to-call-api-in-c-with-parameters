@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q90VQ/x3GlDNqpJjNGpH1xXLfIlgO2Ca2WIMy2+7BqK/iu4Wjhuq9VkpeiHDJNGzLLSnsblh4XuImXbKHr0Jrw==",
+  "success": true,
+  "projectFilePath": "D:\\Testing\\ConsumingWebAPIsDotNetMVC\\ConsumingWebAPIsDotNetMVC\\ConsumingWebAPIsDotNetMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\l\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
